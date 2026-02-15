@@ -74,3 +74,6 @@ project-folder/
     │-- random_forest.pkl
     ...
 ```
+## 7. Streamlit App Link
+```
+https://mlassignment2-2025aa05843.streamlit.app/
